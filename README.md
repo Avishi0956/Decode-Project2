@@ -111,9 +111,9 @@ Through this project, I learned:
 * Responsive navigation systems
 
 ---
+##Live Demo
+https://avishi0956.github.io/Decode-Project2/
 
 ## Author
-
 Avishi Sharma
-
 GitHub: https://github.com/avishi0956
