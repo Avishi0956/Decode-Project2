@@ -90,20 +90,6 @@ Multi-column responsive footer layout.
 
 ---
 
-## Screenshots
-
-Add screenshots inside the screenshots folder.
-
-Example:
-
-![Homepage](screenshots/homepage.png)
-
-![Features Section](screenshots/features.png)
-
-![Contact Form](screenshots/contact.png)
-
----
-
 ## Future Improvements
 
 * Add backend form integration
